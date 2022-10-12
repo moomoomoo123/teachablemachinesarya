@@ -1,0 +1,11 @@
+body {
+    background-color:cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    background-color: antiquewhite;
+    color:black;
+    border-radius: 7px;
+    height:20px;
+}
